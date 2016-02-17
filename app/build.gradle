@@ -73,5 +73,7 @@ dependencies {
     compile 'com.squareup.okhttp:okhttp-urlconnection:2.0.0'
     compile 'com.squareup.okhttp:okhttp:2.0.0'
 
+    compile 'com.sangcomz:FishBun:0.4.0@aar'
+
     compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.3'
 }
